@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FindGitHubUser</string>
+    <string name="action_title">Setting</string>
+</resources>
